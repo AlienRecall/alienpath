@@ -31,7 +31,7 @@ discord-webhook==0.8.0
 discord.py==1.5.1
 dnspython==2.1.0
 flake8==3.9.0
-Flask==1.1.2
+Flask==2.2.5
 google-auth==1.33.0
 google-auth-oauthlib==0.4.4
 grpcio==1.38.1
